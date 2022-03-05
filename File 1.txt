@@ -2,3 +2,5 @@ Hello World!!
 WI1: File 1 updated to check commit with am
 WI1: updated to check diff command
 WI2: to resolve a bug-add space between letters and numericals
+
+WI3: created new branch idea for rebase
